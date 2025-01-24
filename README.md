@@ -1,0 +1,2 @@
+# MongoDB Query Error Handling
+This example demonstrates how to handle errors that can occur when querying MongoDB, specifically when the field you are querying is not of the expected type (e.g., a string).  Improper handling can lead to unexpected crashes. The solution provides best practices to prevent this.  Please see `bug.js` for the buggy code and `bugSolution.js` for the solution.
